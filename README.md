@@ -6,7 +6,8 @@
 
 ---
 
-Description project: structure and processing of [AVL tree](https://en.wikipedia.org/wiki/AVL_tree). Also presented is my term paper on this topic (but in Ukrainian).  
+Description project: structure and processing of [AVL tree](https://en.wikipedia.org/wiki/AVL_tree).  
+Also presented is my term paper on this topic (but in Ukrainian).  
      
 `How it works?`
 <p align="center">
@@ -20,5 +21,12 @@ Below is an `application class diagram`:
 </p>
 
 ---
+
+## Support
+
+Patches are welcome and can be submitted by forking this project and submitting a pull request via GitHub.  
+Please see [CONTRIBUTING.md](../master/CONTRIBUTING.md) for more details.
+
+---  
 
 I hope my project will help you! Communication with me: https://t.me/vlnt_snk
